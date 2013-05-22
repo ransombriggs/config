@@ -1,0 +1,16 @@
+[alias]
+	ci = commit
+	b = branch
+	s = status
+	co = checkout
+	m = checkout master
+	r = rebase master -i
+	d = diff
+[user]
+	name = Ransom Briggs
+	email = ransom-briggs@uiowa.edu
+[core]
+ 	editor = vim
+[pager]
+ 	diff = view -
+ 	show = view -
